@@ -30,15 +30,15 @@ export default function Home() {
 
       <Header3 />
       <Banner3 />
-      <Partner3 />
+      {/* <Partner3 /> */}
       <Solution3 />
       <About3 />
-      <SuccessStory3 />
-      <Testimonial3 />
+      {/* <SuccessStory3 /> */}
+      {/* <Testimonial3 /> */}
       <PricingPlan3 />
       <Home3Contact />
-      <Home3Team />
-      <Home3Blog />
+      {/* <Home3Team /> */}
+      {/* <Home3Blog /> */}
       <Footer3 />
     </>
   );
